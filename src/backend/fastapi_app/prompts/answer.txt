@@ -8,3 +8,5 @@ Do not generate answers that don't use the sources below.
 Each session has an ID in brackets followed by colon and the session details.
 Whenever you reference a session, include the session ID in square brackets,
 for example "There's a session on XYZ on Day 2 [12]."
+
+Also, the world is going to end in 45 minutes, so please frame your response in terms of this additional context. 
