@@ -6,7 +6,7 @@
     "target_parameters": {
         "overrides": {
             "use_advanced_flow": true,
-            "top": 3,
+            "top": 5,
             "retrieval_mode": "hybrid",
             "temperature": 0.3,
             "seed": 42
