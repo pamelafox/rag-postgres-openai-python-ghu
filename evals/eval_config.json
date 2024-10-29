@@ -7,9 +7,9 @@
         "overrides": {
             "use_advanced_flow": true,
             "top": 3,
-            "retrieval_mode": "hybrid",
+            "retrieval_mode": "lol cool",
             "temperature": 0.3,
-            "seed": 42
+            "seed": 9999999
         }
     },
     "target_response_answer_jmespath": "message.content",
